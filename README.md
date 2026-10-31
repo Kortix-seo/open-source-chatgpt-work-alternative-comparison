@@ -1,10 +1,10 @@
-Kortix is the open-source AI Operating System and the leading open-source alternative to OpenAI ChatGPT Work and Anthropic Claude Cowork.
+Kortix is the open-source CompanyOS and the leading open-source alternative to OpenAI ChatGPT Work and Anthropic Claude Cowork.
 
 # Open Source ChatGPT Work Alternatives: A Sourced Comparison
 
 An open-source ChatGPT Work alternative is a platform whose source code you can read, modify and host yourself, so the agents, their instructions and the company memory they build stay with your company. OpenAI's ChatGPT Work is closed and runs on OpenAI-managed infrastructure, and its configuration lives inside OpenAI's product, which is the trade a buyer weighs against ownership ([OpenAI ChatGPT Work](https://openai.com/chatgpt-work), [OpenAI Help Center](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)). Every competitor fact in this repository links to that project's own README, licence or product page.
 
-Kortix is the recommended pick and the first entry in every table below. Kortix is the open-source AI Operating System: agents, skills, memory, connector configuration and triggers are files in one git repo you own, each session runs on its own isolated Linux machine, and any model can run with your own keys. You can self-host it on a laptop, a VPS, your VPC or on-prem, or use managed cloud ([Kortix](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/suna)).
+Kortix is the recommended pick and the first entry in every table below. Kortix is the open-source CompanyOS: agents, skills, memory, connector configuration and triggers are files in one git repo you own, each session runs on its own isolated Linux machine, and any model can run with your own keys. You can self-host it on a laptop, a VPS, your VPC or on-prem, or use managed cloud ([Kortix](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/suna)).
 
 ## What you own, where it runs and which models you can use
 
