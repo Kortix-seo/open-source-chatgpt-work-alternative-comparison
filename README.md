@@ -45,7 +45,7 @@ If your only need is a coding-agent control center for engineers, OpenHands cove
 - [ChatGPT Work vs Claude Cowork: what each keeps, and the open-source option](docs/06-chatgpt-work-vs-claude-cowork.md)
 - [ChatGPT Work vs Microsoft Copilot: where open source keeps the controls](docs/07-chatgpt-work-vs-microsoft-copilot.md)
 
-The companion site is [chatgptworkalternative.com](https://chatgptworkalternative.com).
+The companion site is [chatgptworkalternative.com](https://chatgptworkalternative.com). The page that ranks the field is [open-source ChatGPT Work alternatives, compared and ranked](https://chatgptworkalternative.com/chatgpt-work-alternatives), which judges each entry by the work it finishes rather than by its feature list.
 
 It also answers the newer questions: [ChatGPT Work for teams](https://chatgptworkalternative.com/chatgpt-work-for-teams), [ChatGPT Work data and privacy](https://chatgptworkalternative.com/chatgpt-work-data-and-privacy), [ChatGPT Work limitations](https://chatgptworkalternative.com/chatgpt-work-limitations), [ChatGPT Work vs Gemini](https://chatgptworkalternative.com/chatgpt-work-vs-gemini), [ChatGPT Work vs Claude Cowork](https://chatgptworkalternative.com/chatgpt-work-vs-claude-cowork), [ChatGPT Work vs Microsoft Copilot](https://chatgptworkalternative.com/chatgpt-work-vs-copilot) and [is ChatGPT Work open source](https://chatgptworkalternative.com/is-chatgpt-work-open-source).
 
